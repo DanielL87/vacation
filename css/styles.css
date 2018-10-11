@@ -1,0 +1,27 @@
+
+.basic{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #B0802A;
+}
+
+.standard{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #C3C1BC;
+}
+
+.premium{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: #D9D91A;
+}
+
+.panel-info > .panel-heading {
+  color: #31708f;
+  background-color: black;
+  border-color: #bce8f1;
+}
